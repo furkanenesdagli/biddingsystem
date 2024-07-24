@@ -17,7 +17,7 @@ This project is a bidding system where users can place bids on items. It is deve
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your_username/bidding-system.git
+git clone https://github.com/furkanenesdagli/bidding-system.git
 cd bidding-system
 ```
 
